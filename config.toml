@@ -36,7 +36,7 @@ canonifyURL = true
 [params]
   # Add a name or alias to this list as you go through the workshop.
   Authors = [
-    "Carson Anderson"
+    "Carson Anderson",
     "Cole Olsen"
   ]
 
